@@ -58,14 +58,6 @@ Want to see how this pattern is implemented? 💻
 - Check the [`ReflectionAgent`](src/agentic_patterns/reflection_pattern/reflection_agent.py) for a complete Python implementation
 
 
-Take a look at the YouTube video! 👇
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=0sAVI8bQdRc">
-    <img src="https://img.youtube.com/vi/0sAVI8bQdRc/0.jpg" alt="Watch the video" />
-  </a>
-</div>
-
 ---
 
 ### Tool Pattern  🛠
@@ -115,15 +107,6 @@ Want to see how this pattern is implemented? 💻
 - Check the [notebook](notebooks/planning_pattern.ipynb) for a step by step explanation
 - Check the [`ReactAgent`](src/agentic_patterns/planning_pattern/react_agent.py) for a complete Python implementation
 
-Take a look at the YouTube video! 👇
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=4xkC069wrw8">
-    <img src="https://img.youtube.com/vi/4xkC069wrw8/0.jpg" alt="Watch the video" />
-  </a>
-</div>
-
----
 
 ### Multiagent Pattern 🧑🏽‍🤝‍🧑🏻
 
@@ -143,15 +126,7 @@ an `Agent`, member of the `Crew`.
 - Check the [`Crew`](src/agentic_patterns/multiagent_pattern/crew.py) to see how to implement
 the `Crew`
 
-Take a look at the YouTube video! 👇
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=os22Q7nEXPA">
-    <img src="https://img.youtube.com/vi/os22Q7nEXPA/0.jpg" alt="Watch the video" />
-  </a>
-</div>
-
----
 
 ## Installation
 
