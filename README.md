@@ -373,28 +373,3 @@ To run the Crew, simply run:
 ```python
 crew.run()
 ```
-
-## Recommended Workflow
-
-This is **an educational project** and not an agentic framework.
-
-The reason I've decided to implement the 4 Agentic Patterns from scratch was to deeply understand their basics and also to teach them to anyone interested.
-
-Given this, this is my recommended learning workflow:
-
-1️⃣ Start with the YouTube video, ideally following my explanations with your own Jupyter Notebook.
-
-2️⃣ Play with the code in the Jupyter Notebook: make changes, modify the prompts, create new examples etc. Get comfortable with the pattern fundamentals and basic concepts.
-
-3️⃣ (Optional) Read through the library implementation of each pattern. This will require more effort and more Python knowledge, but if you take the time, I can assure you you'll benefit a lot from it.
-
-```mermaid
-flowchart TD;
-    Video --> Notebook;
-    Notebook --> Code
-    classDef centered text-align:center;
-```
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=neural-maze/agentic_patterns&type=Date)](https://star-history.com/#neural-maze/agentic_patterns&Date)
