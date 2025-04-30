@@ -80,14 +80,7 @@ Want to see how this pattern is implemented? 💻
 - Check the [`ToolAgent`](src/agentic_patterns/tool_pattern/tool_agent.py) for a complete Python implementation
 - Check the [`Tool`](src/agentic_patterns/tool_pattern/tool.py) for understanding how Tools work under the hood.
 
-Take a look at the YouTube video! 👇
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=ApoDzZP8_ck">
-    <img src="https://img.youtube.com/vi/ApoDzZP8_ck/0.jpg" alt="Watch the video" />
-  </a>
-</div>
 
----
 
 ### Planning Pattern 🧠
 
